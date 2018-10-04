@@ -27,3 +27,5 @@ body {
     .toptxt h1{font-size:25px;}
     .toptxt p{line-height: 20px;}
 }
+
+audio {display:none;}
